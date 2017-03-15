@@ -1,0 +1,7 @@
+#Fri Feb 10 23:44:18 CST 2017
+base.0=C\:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc64cd4a383a036646787e94300d55dd6864ca3c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46c5b999dde3be6b9374739d33124d0af793e2ae\\classes.dex
+base.1=C\:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46c5b999dde3be6b9374739d33124d0af793e2ae
+file.0=C\:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc64cd4a383a036646787e94300d55dd6864ca3c\\classes.dex

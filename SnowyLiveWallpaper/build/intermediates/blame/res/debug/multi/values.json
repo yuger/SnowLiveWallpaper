@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 54,
+                        "endColumn": 58,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 60,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 202,
+                        "endColumn": 58,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 90,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Softs\\StudioProjects\\GitHub\\SnowLiveWallpaper\\SnowyLiveWallpaper\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 113,
+                        "endColumn": 88,
+                        "endOffset": 199
+                    }
+                }
+            }
+        ]
+    }
+]

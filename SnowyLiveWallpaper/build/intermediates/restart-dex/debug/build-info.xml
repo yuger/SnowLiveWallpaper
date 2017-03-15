@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="79788273619428"
+    token="7167796320393172233"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="302" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="298" />
+    <task
+        name="verifier"
+        duration="76" />
+
+    <artifact
+        location="C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\build\outputs\apk\SnowyLiveWallpaper-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="79788273619428"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\build\outputs\apk\SnowyLiveWallpaper-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

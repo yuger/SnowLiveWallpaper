@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:3:3-45
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+uses-feature#android.software.live_wallpaper
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:5:3-66
+	android:name
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:5:17-63
+application
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:7:3-24:17
+	android:label
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:9:5-37
+	android:allowBackup
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:10:5-32
+	android:icon
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:8:5-41
+service#com.novoda.snowyvillagewallpaper.ParallaxWallpaper
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:12:5-22:15
+	android:label
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:14:7-39
+	android:permission
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:15:7-61
+	android:name
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:13:7-72
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:16:7-18:23
+action#android.service.wallpaper.WallpaperService
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:17:9-77
+	android:name
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:17:17-74
+meta-data#android.service.wallpaper
+ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:19:7-21:45
+	android:resource
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:21:9-42
+	android:name
+		ADDED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml:20:9-49
+uses-sdk
+INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
+		INJECTED from C:\Softs\StudioProjects\GitHub\SnowLiveWallpaper\SnowyLiveWallpaper\src\main\AndroidManifest.xml
